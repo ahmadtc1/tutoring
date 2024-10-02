@@ -11732,3 +11732,11 @@ html {
     left: -2vw;
   }
 }
+
+.rounded-image {
+  border-radius: 25px; /* Adjust the value as needed */
+  width: 300px; /* Optional: Set a width */
+  height: auto; /* Maintain aspect ratio */
+  border: 2px solid #ccc; /* Optional: Add a border */
+  margin-right: 20px;
+}
